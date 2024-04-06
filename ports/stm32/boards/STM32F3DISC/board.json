@@ -1,0 +1,15 @@
+{
+    "deploy": [
+        "../deploy.md"
+    ],
+    "docs": "",
+    "features": [],
+    "images": [
+        "stm32f3disc.jpg"
+    ],
+    "mcu": "stm32f3",
+    "product": "Discovery F3",
+    "thumbnail": "",
+    "url": "https://www.st.com/en/evaluation-tools/stm32f3discovery.html",
+    "vendor": "ST Microelectronics"
+}
